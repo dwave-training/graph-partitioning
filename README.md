@@ -1,3 +1,7 @@
+[![Open in GitHub Codespaces](
+  https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
+  https://codespaces.new/dwave-training/graph-partitioning?quickstart=1)
+
 [![Linux/Mac/Windows build status](
   https://circleci.com/gh/dwave-examples/graph-partitioning.svg?style=shield)](
   https://circleci.com/gh/dwave-examples/graph-partitioning)
